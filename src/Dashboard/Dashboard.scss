@@ -1,0 +1,39 @@
+$apcaYellow: #fef7d0;
+
+.dashboard-container {
+  display: flex;
+  flex-direction: row;
+  top: 10vh;
+  height: 100vh;
+  overflow: auto;
+
+  justify-content: center;
+  margin: 0 auto;
+  background-color: $apcaYellow;
+
+  .chart {
+    background-color: white;
+
+    .chart-symbol {
+      margin-left: 5px;
+      margin-top: 2px;
+    }
+  }
+
+  .selector {
+    width: 8vw;
+    height: 100vh;
+    margin: 10px;
+  }
+
+  .form {
+    margin-top: 15vh;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10vh;
+
+    input {
+      text-transform: uppercase;
+    }
+  }
+}
