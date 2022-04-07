@@ -1,82 +1,102 @@
 [
   {
     "id": 0,
-    "symbol": "AAVEUSD"
+    "symbol": "AAVEUSD",
+    "name": "Aave"
   },
   {
     "id": 1,
-    "symbol": "BATUSD"
+    "symbol": "BATUSD",
+    "name": "BAT"
   },
   {
     "id": 2,
-    "symbol": "BTCUSD"
+    "symbol": "BTCUSD",
+    "name": "Bitcoin"
   },
   {
     "id": 3,
-    "symbol": "BCHUSD"
+    "symbol": "BCHUSD",
+    "name": "Bitcoin Cash"
   },
   {
     "id": 4,
-    "symbol": "LINKUSD"
+    "symbol": "LINKUSD",
+    "name": "Chainlink"
   },
   {
     "id": 5,
-    "symbol": "DAIUSD"
+    "symbol": "DAIUSD",
+    "name": "Dai"
   },
   {
     "id": 6,
-    "symbol": "DOGEUSD"
+    "symbol": "DOGEUSD",
+    "name": "Dogecoin"
   },
   {
     "id": 7,
-    "symbol": "ETHUSD"
+    "symbol": "ETHUSD",
+    "name": "Ethereum"
   },
   {
     "id": 8,
-    "symbol": "GRTUSD"
+    "symbol": "GRTUSD",
+    "name": "The Graph"
   },
   {
     "id": 9,
-    "symbol": "LTCUSD"
+    "symbol": "LTCUSD",
+    "name": "Litecoin"
   },
   {
     "id": 10,
-    "symbol": "MKRUSD"
+    "symbol": "MKRUSD",
+    "name": "Maker"
   },
   {
     "id": 11,
-    "symbol": "MATICUSD"
+    "symbol": "MATICUSD",
+    "name": "Polygon"
   },
   {
     "id": 12,
-    "symbol": "PAXGUSD"
+    "symbol": "PAXGUSD",
+    "name": "Pax Gold"
   },
   {
     "id": 13,
-    "symbol": "SHIBUSD"
+    "symbol": "SHIBUSD",
+    "name": "Shiba Inu"
   },
   {
     "id": 14,
-    "symbol": "SOLUSD"
+    "symbol": "SOLUSD",
+    "name": "Solana"
   },
   {
     "id": 15,
-    "symbol": "USDTUSD"
+    "symbol": "USDTUSD",
+    "name": "Tether"
   },
   {
     "id": 16,
-    "symbol": "TRXUSD"
+    "symbol": "TRXUSD",
+    "name": "TRON"
   },
   {
     "id": 17,
-    "symbol": "UNIUSD"
+    "symbol": "UNIUSD",
+    "name": "Uniswap"
   },
   {
     "id": 18,
-    "symbol": "WBTCUSD"
+    "symbol": "WBTCUSD",
+    "name": "Wrapped Bitcoin"
   },
   {
     "id": 19,
-    "symbol": "YFIUSD"
+    "symbol": "YFIUSD",
+    "name": "yearn.finance"
   }
 ]

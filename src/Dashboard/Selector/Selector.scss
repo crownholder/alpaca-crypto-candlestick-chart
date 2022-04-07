@@ -1,11 +1,18 @@
 .buttons {
   width: 100%;
   table-layout: fixed;
-  border-collapse: collapse;
-  // background-color: grey;
+  // border-collapse: collapse;
+  background-color: #3c6997;
 }
 
 .buttons button {
-  width: 100%;
-  margin: 1px;
+  width: 97%;
+  margin: 2px;
+  white-space: normal;
+  // color: #508484;
+  // background-color: #0e6ba8;
+}
+
+.header {
+  color: white;
 }

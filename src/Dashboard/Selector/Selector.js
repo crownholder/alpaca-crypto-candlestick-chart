@@ -17,14 +17,14 @@ class Selector extends React.Component {
         <Table className="buttons" size="sm">
           <Thead>
             <Tr>
-              <Th>Render Data</Th>
+              <th className="header">Render Data</th>
             </Tr>
           </Thead>
           <Tbody>
             {this.state.symbolData.map((symbol) => (
               <Tr>
                 <Button onClick={() => this.props.handler(symbol.symbol)}>
-                  {symbol.symbol}
+                  {symbol.name}
                 </Button>
               </Tr>
             ))}
