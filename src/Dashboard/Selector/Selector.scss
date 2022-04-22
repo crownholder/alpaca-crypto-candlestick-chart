@@ -2,17 +2,21 @@
   width: 100%;
   table-layout: fixed;
   // border-collapse: collapse;
-  background-color: #3c6997;
+  background-color: #b8ded9c0;
 }
 
 .buttons button {
-  width: 97%;
+  width: 20%;
   margin: 2px;
-  white-space: normal;
+  white-space: thin;
   // color: #508484;
   // background-color: #0e6ba8;
 }
 
 .header {
-  color: white;
+  color: rgb(255, 0, 0);
+  background-color: #ffffff;
+  border-radius: 50% ;
+  padding-top: 0%;
+  justify-content: left;
 }

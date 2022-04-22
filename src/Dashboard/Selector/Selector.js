@@ -14,10 +14,10 @@ class Selector extends React.Component {
   render() {
     return (
       <div>
-        <Table className="buttons" size="sm">
+        <Table className="buttons" size="lg" fontWeight={"thin"} fontFamily="sans-serif" fontSize={"2xl"}>
           <Thead>
             <Tr>
-              <th className="header">Render Data</th>
+              <th className="header"></th>
             </Tr>
           </Thead>
           <Tbody>

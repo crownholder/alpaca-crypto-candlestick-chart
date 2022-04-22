@@ -3,8 +3,8 @@ import { timeParse } from "d3-time-format";
 const Alpaca = require("@alpacahq/alpaca-trade-api");
 const parseDate = timeParse("%Y-%m-%dT%H:%M:%SZ");
 
-const API_KEY = "<YOUR-KEY-HERE>";
-const API_SECRET = "<YOUR-SECRET-HERE>";
+const API_KEY = "AKM0F2Q11JL5LJ34RMQH";
+const API_SECRET = "iYNMrrNLDTa7Lkg43akMfAewYExOtFyAEsIkGDtU";
 
 const alpaca = new Alpaca({
   keyId: API_KEY,

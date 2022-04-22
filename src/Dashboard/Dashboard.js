@@ -16,8 +16,8 @@ class Dashboard extends React.Component {
     this.handleSelection = this.handleSelection.bind(this);
     this.apcaCredentials = {
       action: "auth",
-      key: "<YOUR-KEY-HERE>",
-      secret: "<YOUR-SECRET-HERE>",
+      key: "AKM0F2Q11JL5LJ34RMQH",
+      secret: "iYNMrrNLDTa7Lkg43akMfAewYExOtFyAEsIkGDtU",
     };
     this.wsURL =
       "wss://stream.data.alpaca.markets/v1beta1/crypto?exchanges=CBSE,FTXU";
@@ -107,7 +107,7 @@ class Dashboard extends React.Component {
       return <div>Loading...</div>;
     }
     return (
-      <div className="dashboard-container">
+      <div className="navbar-toggler ">
         <div className="selector">
           <Selector handler={this.handleSelection} />
         </div>
